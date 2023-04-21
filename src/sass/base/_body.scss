@@ -11,3 +11,7 @@ html {
 
   background-color: var(--background-color);
 }
+
+body.no-scroll {
+  overflow: hidden;
+}
