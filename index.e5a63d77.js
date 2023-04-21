@@ -1,0 +1,2 @@
+!function(){var e={openReadMorelBtn:document.querySelector(".js-read-more-open"),closeReadMoreBtn:document.querySelector(".js-read-more-close"),readMoreModal:document.querySelector(".js-read-more"),body:document.querySelector("body")};function o(){e.readMoreModal.classList.toggle("backdrop--is-hidden"),e.body.classList.toggle("no-scroll")}e.openReadMorelBtn.addEventListener("click",o),e.closeReadMoreBtn.addEventListener("click",o)}();
+//# sourceMappingURL=index.e5a63d77.js.map

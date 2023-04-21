@@ -1,0 +1,2 @@
+!function(){var e={openFranchiseBtn:document.querySelectorAll(".js-franchise-open"),closeFranchiseBtn:document.querySelector(".js-franchise-close"),franchiseModal:document.querySelector(".js-franchise"),body:document.querySelector("body")};function c(){e.franchiseModal.classList.toggle("backdrop--is-hidden"),e.body.classList.toggle("no-scroll")}e.openFranchiseBtn[0].addEventListener("click",c),e.closeFranchiseBtn.addEventListener("click",c)}();
+//# sourceMappingURL=index.8524f4d4.js.map
